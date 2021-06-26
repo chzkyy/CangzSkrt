@@ -10,10 +10,9 @@ UI Design :
 
 
 Link apk :
+
 Android Arm64 : https://drive.google.com/file/d/15NzETb1zeQpelfInzxIHpyljutQYGO26/view?usp=sharing
-
 Android ARM : https://drive.google.com/file/d/1Dm8U_cI_zx2mcZwZnqGM6rfxLqgG4LGf/view?usp=sharing
-
 Android X86 : https://drive.google.com/file/d/158yo8TZ0wdX6i62f-DkLbrqaFMeBeiJ4/view?usp=sharing
 
 ## Getting Started
